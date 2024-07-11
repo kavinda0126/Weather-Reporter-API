@@ -50,6 +50,4 @@ This Node.js application sends weather reports to users via email every 3 hours.
 - **config/**: Contains email configuration (`nodemailer.js`).
 - **models/**: Contains Mongoose models (`user.js`).
 
-## License
 
-This project is licensed under the MIT License.
