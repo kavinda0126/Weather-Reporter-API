@@ -12,7 +12,7 @@ This Node.js application sends weather reports to users via email every 3 hours.
 
 - Node.js and npm
 - MongoDB
-- Environment variables for email configuration
+- Environment variables for email and weather API configuration
 
 ## Installation
 
@@ -51,3 +51,6 @@ This Node.js application sends weather reports to users via email every 3 hours.
 - **models/**: Contains Mongoose models (`user.js`).
 
 
+## APIs Used
+
+- [OpenWeatherMap API](https://openweathermap.org/api) for weather data.
