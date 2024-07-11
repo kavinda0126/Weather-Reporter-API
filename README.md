@@ -1,4 +1,4 @@
-# Weather Report Application
+# Weather Reporter API (Node Js & Express)
 
 This Node.js application sends weather reports to users via email every 3 hours.
 
